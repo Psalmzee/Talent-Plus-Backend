@@ -1,0 +1,22 @@
+{
+  "name": "talent-plus-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest --detectOpenHandles",
+    "start:dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Onopet",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
