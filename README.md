@@ -54,7 +54,7 @@ git clone https://github.com/Psalmzee/Talent-Plus-Backend.git
 npm install
 ```
 
-#### Update .env with [example.env](https://github.com/Psalmzee/Talent-Plus-Backend/blob/main/example.env)
+#### Update .env with [example.env](https://github.com/Psalmzee/Talent-Plus-Backend/blob/main/example.env) in root directory
 
 #### Run a development server
 
